@@ -13,7 +13,7 @@ let songArray = [
     "audio/Yes - Cans and Brahms.mp3",
     "audio/Yes - We Have Heaven.mp3",
     "audio/Yes - South Side of the Sky.mp3",
-    "audio/Yes - Five Per Cent for Nothing.mp3",
+    "audio/Yes - Five per Cent for Nothing.mp3",
     "audio/Yes - Long Distance Runaround.mp3",
     "audio/Yes - The Fish (Schindleria Praematurus).mp3",
     "audio/Yes - Mood for a Day.mp3",
